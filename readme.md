@@ -2,32 +2,42 @@
 
 [![Test](https://github.com/zakiego/daftar-perguruan-tinggi-indonesia/actions/workflows/test.yml/badge.svg)](https://github.com/zakiego/daftar-perguruan-tinggi-indonesia/actions/workflows/test.yml)
 
-Quickly start building your TypeScript-based application with this preconfigured starter project that includes test setup.
+[![Run](https://github.com/zakiego/daftar-perguruan-tinggi-indonesia/actions/workflows/run.yml/badge.svg)](https://github.com/zakiego/daftar-perguruan-tinggi-indonesia/actions/workflows/run.yml)
+
+## Data
+
+Data diambil dari [PDDIKTI](https://api-frontend.kemdikbud.go.id/loadpt), diperbarui setiap hari.
+
+Format data yang tersedia:
+
+- JSON ([`data.json`](/data/data.json))
+- CSV ([`data.csv`](/data/data.csv))
+- Excel ([`data.xlsx`](/data/data.xlsx))
 
 ## How To Use
 
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/meratusdev/typescript-node-starter.git
+   git clone https://github.com/zakiego/daftar-perguruan-tinggi-indonesia.git
    ```
 
 2. Install dependencies
 
    ```bash
-   yarn install
+   pnpm install
    ```
 
 3. Run the project
 
    ```bash
-   yarn start
+   pnpm start
    ```
 
 4. Run tests
 
    ```bash
-   yarn test
+   pnpm test
    ```
 
 ## Folder Structure
