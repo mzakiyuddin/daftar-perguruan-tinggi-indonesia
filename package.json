@@ -1,0 +1,29 @@
+{
+  "name": "ts-node-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx ts-node -r tsconfig-paths/register index.ts",
+    "dev": "npx ts-node-dev --respawn -r tsconfig-paths/register index.ts",
+    "test": "vitest",
+    "coverage": "vitest run --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "ts-node": "^10.9.1",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.1.2",
+    "typescript": "^5.0.2",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.10",
+    "@vitest/coverage-c8": "^0.29.7",
+    "vite-tsconfig-paths": "^4.0.7",
+    "vitest": "^0.29.7"
+  }
+}
