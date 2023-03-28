@@ -6,7 +6,9 @@
 
 ## Data
 
-Data diambil dari [PDDIKTI](https://api-frontend.kemdikbud.go.id/loadpt), diperbarui setiap hari.
+Data daftar perguruan tinggi Indonesia diambil dari [PDDIKTI](https://api-frontend.kemdikbud.go.id/loadpt), diperbarui setiap hari.
+
+API: [https://api-frontend.kemdikbud.go.id/loadpt](https://api-frontend.kemdikbud.go.id/loadpt)
 
 Format data yang tersedia:
 
