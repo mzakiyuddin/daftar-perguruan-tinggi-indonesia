@@ -1,10 +1,9 @@
 name: Run
 
 on:
-
   schedule:
-     # runs "once a day" (see https://crontab.guru)
-     - cron: "0 0 * * *"
+    # runs "once a day" (see https://crontab.guru)
+    - cron: "0 0 * * *"
 
 jobs:
   build:
@@ -44,3 +43,17 @@ jobs:
 
       - name: Run
         run: pnpm start
+
+      - name: Commit File
+        run: |
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "github-actions[bot]"
+          git add .
+          now=$(date)
+          git commit -m "Auto Commit $now"
+
+      - name: Push Changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
