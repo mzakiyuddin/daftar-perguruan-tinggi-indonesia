@@ -1,10 +1,10 @@
 name: Run
 
 on:
-  push
-  # schedule:
-  #   # runs "once a day" (see https://crontab.guru)
-  #   - cron: "0 0 * * *"
+
+  schedule:
+     # runs "once a day" (see https://crontab.guru)
+     - cron: "0 0 * * *"
 
 jobs:
   build:
