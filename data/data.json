@@ -3675,6 +3675,11 @@
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Widya Manggalia"
   },
   {
+    "id_sp": "6C1166C2-BDAE-4706-9AB5-131FA80A298E",
+    "kode_pt": "013216",
+    "nama_pt": "Sekolah Tinggi Manajemen Informatika dan Komputer Mulia Darma"
+  },
+  {
     "id_sp": "A4C100F5-4B5C-487E-BF95-1321D3CFCE76",
     "kode_pt": "023059",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Prabumulih"
@@ -3868,6 +3873,11 @@
     "id_sp": "4A0258B8-18D9-4C62-A29B-13F770FF3216",
     "kode_pt": "103110",
     "nama_pt": "STIKES Dharma Landbouw"
+  },
+  {
+    "id_sp": "F5FC9322-146B-41AD-9266-13FCAB81D8E0",
+    "kode_pt": "903389",
+    "nama_pt": "L.N. Gumilyov Eurasian National University"
   },
   {
     "id_sp": "0555CFCD-2EBA-4790-A33E-13FFB3E90D4A",
@@ -10210,6 +10220,11 @@
     "nama_pt": "Akademi Kebidanan Pelita Ilmu Depok"
   },
   {
+    "id_sp": "50C35409-C1F0-4AB4-A758-35266D9363E8",
+    "kode_pt": "041123",
+    "nama_pt": "Universitas Santo Borromeus"
+  },
+  {
     "id_sp": "159EFB47-19C2-4D6E-993C-35367BCA16D6",
     "kode_pt": "041048",
     "nama_pt": "Universitas Bale Bandung"
@@ -11183,6 +11198,11 @@
     "id_sp": "E771531B-C00B-4B69-B004-3A9BC9BADC2C",
     "kode_pt": "024038",
     "nama_pt": "Akademi Sains Dan Teknologi Pembangunan"
+  },
+  {
+    "id_sp": "FB6D2508-AD27-4352-AE78-3AA3176AA12D",
+    "kode_pt": "023148",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Hesti Wira Sriwijaya"
   },
   {
     "id_sp": "9B1BD440-5005-4182-9B96-3AADEF8F26FB",
@@ -28575,6 +28595,11 @@
     "nama_pt": "AMIK Al-Ma soem"
   },
   {
+    "id_sp": "C435DBA2-A062-475C-94B0-93D5A51C8F61",
+    "kode_pt": "013215",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Columbia Asia"
+  },
+  {
     "id_sp": "6FBB2EC9-261F-4752-9DE6-93D69B0DF91E",
     "kode_pt": "104032",
     "nama_pt": "Akademi Bahasa Asing Persada Bunda"
@@ -33865,6 +33890,11 @@
     "nama_pt": "Netherland International Institute For Management"
   },
   {
+    "id_sp": "B3657FED-1F6B-44D7-85B1-B120A706E00D",
+    "kode_pt": "033225",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Mayapada"
+  },
+  {
     "id_sp": "6BA8619E-3D27-4D1C-90E8-B13408B8523C",
     "kode_pt": "044237",
     "nama_pt": "Akademi Akuntansi Keuangan dan Perbankan Indonesia"
@@ -37102,7 +37132,7 @@
   {
     "id_sp": "6F8636E0-C439-4322-B42F-C1E5ACF555F0",
     "kode_pt": "900859",
-    "nama_pt": "Istambul University"
+    "nama_pt": "Istanbul University"
   },
   {
     "id_sp": "6B14BAA6-E3AE-480A-B1CD-C1EE59A6138E",
@@ -48617,7 +48647,7 @@
   {
     "id_sp": "495A1BE9-17AA-473C-8401-FCE33A04A10F",
     "kode_pt": "073025",
-    "nama_pt": "STIKI Malang"
+    "nama_pt": "Sekolah Tinggi Informatika & Komputer Indonesia"
   },
   {
     "id_sp": "28C73781-61A7-4EDB-AD4A-FCF1C43AF1BC",
@@ -48963,6 +48993,11 @@
     "id_sp": "86321503-0ED9-4708-8939-FECFD5D3FBEB",
     "kode_pt": "900156",
     "nama_pt": "Shibaru University"
+  },
+  {
+    "id_sp": "B19E276D-D21D-4F14-A046-FEDD00541B07",
+    "kode_pt": "903388",
+    "nama_pt": "University of Science and Technology Beijing"
   },
   {
     "id_sp": "B8120CEA-C6E1-4819-AB96-FEF351BEBB2F",
