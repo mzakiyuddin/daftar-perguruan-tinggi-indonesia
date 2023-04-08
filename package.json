@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx ts-node -r tsconfig-paths/register index.ts",
-    "dev": "npx ts-node-dev --respawn -r tsconfig-paths/register index.ts",
+    "start": "NODE_TLS_REJECT_UNAUTHORIZED=0 npx ts-node -r tsconfig-paths/register index.ts",
+    "dev": "NODE_TLS_REJECT_UNAUTHORIZED=0 npx ts-node-dev --respawn -r tsconfig-paths/register index.ts",
     "test": "vitest",
     "coverage": "vitest run --coverage"
   },
