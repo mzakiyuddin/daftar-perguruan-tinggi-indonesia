@@ -775,6 +775,11 @@
     "nama_pt": "Akademi Keperawatan Putra Pertiwi"
   },
   {
+    "id_sp": "C2EE94F5-3C1A-467E-88A1-03F33DD6C201",
+    "kode_pt": "903390",
+    "nama_pt": "Kazakh Ablai Khan University of International Relations and World Languages"
+  },
+  {
     "id_sp": "DF47D5D2-13B3-49B3-90DF-03FBC15D3A78",
     "kode_pt": "054035",
     "nama_pt": "Akademi Komunikasi Radya Binatama"
@@ -9660,6 +9665,11 @@
     "nama_pt": "STKIP Pangeran Dharma Kusuma Segeran Juntinyuat Indramayu"
   },
   {
+    "id_sp": "5C3DBFAD-9471-4D55-94A6-327705001AB7",
+    "kode_pt": "091082",
+    "nama_pt": "Universitas Andi Sudirman"
+  },
+  {
     "id_sp": "548E6F5B-77E1-43DA-B308-32801B67E3AA",
     "kode_pt": "094133",
     "nama_pt": "Akademi Kebidanan Bambapuang Prima Persada"
@@ -14508,6 +14518,11 @@
     "id_sp": "D73178FE-0A5A-453E-B6C6-4B58DDA43586",
     "kode_pt": "153005",
     "nama_pt": "Sekolah Tinggi Manajemen Informatika Komputer Uyelindo Kupang"
+  },
+  {
+    "id_sp": "EAAD1BA4-9A42-48E4-A4BC-4B6669AB56E4",
+    "kode_pt": "101048",
+    "nama_pt": "Universitas Riau Indonesia"
   },
   {
     "id_sp": "C8DDCDC9-AA4F-4B8B-AAD5-4B698A13867F",
@@ -33725,6 +33740,11 @@
     "nama_pt": "STAI Balaiselasa YPPTI Pesisir Selatan, Sumatera Barat"
   },
   {
+    "id_sp": "1E146D42-093D-4B35-A7DD-B0175EC13831",
+    "kode_pt": "032031",
+    "nama_pt": "Institut Pariwisata Trisakti"
+  },
+  {
     "id_sp": "4054893E-EAD7-452B-8A86-B018BCCE32E6",
     "kode_pt": "901070",
     "nama_pt": "Indiana University - Bloomington"
@@ -34498,6 +34518,11 @@
     "id_sp": "BA9FFF6C-C64F-44A1-80B7-B3D36B042BCF",
     "kode_pt": "901896",
     "nama_pt": "University Liberlae Amsterdam"
+  },
+  {
+    "id_sp": "E09A47FA-6B4F-4953-B1B8-B3D3CF34BC1B",
+    "kode_pt": "091083",
+    "nama_pt": "Universitas Wallacea"
   },
   {
     "id_sp": "ABBF1ECF-D86E-4A6C-9EAA-B3D80787C55F",
