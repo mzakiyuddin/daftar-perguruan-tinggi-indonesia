@@ -44,16 +44,11 @@ jobs:
       - name: Run
         run: pnpm start
 
-      - name: Commit File
-        run: |
-          git config --global user.email "github-actions@github.com"
-          git config --global user.name "github-actions[bot]"
-          git add .
-          now=$(date)
-          git commit -m "Auto Commit $now"
-
       - name: Push Changes
-        uses: ad-m/github-push-action@master
+        uses: zakiego/git-auto-commit
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: "github-actions[bot]"
+          email: "github-actions@github.com"
+          commit_message: "Auto Commit $now"
           branch: ${{ github.ref }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
