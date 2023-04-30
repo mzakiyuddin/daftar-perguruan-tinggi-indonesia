@@ -48,7 +48,7 @@ jobs:
         run: pnpm start
 
       - name: Push Changes
-        uses: zakiego/git-auto-commit:latest
+        uses: zakiego/git-auto-commit@main
 
         with:
           username: "github-actions[bot]"
