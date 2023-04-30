@@ -1,6 +1,9 @@
 name: Run
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     # runs "once a day" (see https://crontab.guru)
     - cron: "0 0 * * *"
