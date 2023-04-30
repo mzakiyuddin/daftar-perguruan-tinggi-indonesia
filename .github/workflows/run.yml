@@ -48,7 +48,7 @@ jobs:
         run: pnpm start
 
       - name: Push Changes
-        uses: zakiego/git-auto-commit@main
+        uses: zakiego/just-git-push@main
         env:
           USERNAME: "github-actions[bot]"
           EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
