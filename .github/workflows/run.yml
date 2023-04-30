@@ -49,11 +49,10 @@ jobs:
 
       - name: Push Changes
         uses: zakiego/git-auto-commit@main
-
-        with:
-          username: "github-actions[bot]"
-          email: "github-actions@github.com"
-          commit_message: "Auto Commit $now"
-          branch: ${{ github.ref_name }}
-          repository: ${{ github.repository }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        env:
+          USERNAME: "github-actions[bot]"
+          EMAIL: "github-actions@github.com"
+          COMMITT_MESSAHE: "Auto Commit $now"
+          BRANCH: ${{ github.ref_name }}
+          REPOSITORY: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
