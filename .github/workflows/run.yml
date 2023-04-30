@@ -54,5 +54,6 @@ jobs:
           username: "github-actions[bot]"
           email: "github-actions@github.com"
           commit_message: "Auto Commit $now"
-          branch: ${{ github.ref }}
+          branch: ${{ github.ref_name }}
+          repository: ${{ github.repository }}
           github_token: ${{ secrets.GITHUB_TOKEN }}
