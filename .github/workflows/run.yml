@@ -52,7 +52,7 @@ jobs:
         env:
           USERNAME: "github-actions[bot]"
           EMAIL: "github-actions@github.com"
-          COMMITT_MESSAHE: "Auto Commit $now"
+          COMMIT_MESSAHE: "Auto Commit $now"
           BRANCH: ${{ github.ref_name }}
           REPOSITORY: ${{ github.repository }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
