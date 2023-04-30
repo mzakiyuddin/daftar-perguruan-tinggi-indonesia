@@ -51,7 +51,7 @@ jobs:
         uses: zakiego/git-auto-commit@main
         env:
           USERNAME: "github-actions[bot]"
-          EMAIL: "github-actions@github.com"
+          EMAIL: "41898282+github-actions[bot]@users.noreply.github.com"
           COMMIT_MESSAGE: "Auto Commit $now"
           BRANCH: ${{ github.ref_name }}
           REPOSITORY: ${{ github.repository }}
