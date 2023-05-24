@@ -2430,6 +2430,11 @@
     "nama_pt": "STT YESYURUN ARASTAMAR SERITI LUWU"
   },
   {
+    "id_sp": "1165E134-E947-47F4-A5DA-0C50063F4165",
+    "kode_pt": "063130",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Pemkab Purworejo"
+  },
+  {
     "id_sp": "D7513C05-7242-4EDF-A7ED-0C5426417B8C",
     "kode_pt": "024010",
     "nama_pt": "Akademi Akuntansi Lampung"
@@ -16868,6 +16873,11 @@
     "id_sp": "306E9E49-6D38-49E2-BA0C-56FB6A5542D0",
     "kode_pt": "901400",
     "nama_pt": "State University Of New York At Cortland"
+  },
+  {
+    "id_sp": "B9DFF39B-DB28-4E3D-9B3A-56FD6DDB8376",
+    "kode_pt": "903396",
+    "nama_pt": "IPAG Business School"
   },
   {
     "id_sp": "3115BA1C-2346-46A1-A01A-570167DEDD34",
@@ -40368,6 +40378,11 @@
     "id_sp": "758D7ACD-4A08-42F7-B4AF-D252BB856EAB",
     "kode_pt": "901263",
     "nama_pt": "Loma Linda University"
+  },
+  {
+    "id_sp": "2CB4DAC7-F095-4C43-BD94-D254AE7862DD",
+    "kode_pt": "903395",
+    "nama_pt": "Kirklareli University"
   },
   {
     "id_sp": "1C4755E0-820F-46B3-B352-D259CFEB027C",
