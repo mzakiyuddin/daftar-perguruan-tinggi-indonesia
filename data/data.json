@@ -5195,6 +5195,11 @@
     "nama_pt": "Sekolah Tinggi Penyuluhan Pertanian (STPP) Magelang"
   },
   {
+    "id_sp": "FC61ED5C-2AEF-4C00-BAE4-1AEC4130AAF2",
+    "kode_pt": "075023",
+    "nama_pt": "Politeknik Kesehatan Jember"
+  },
+  {
     "id_sp": "1804CC66-CB19-4E93-8B3F-1AF71AD469FF",
     "kode_pt": "001006",
     "nama_pt": "Universitas Andalas"
@@ -29578,6 +29583,11 @@
     "id_sp": "F6F5807D-F772-4F4F-9402-98F26F600592",
     "kode_pt": "103027",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Jambi"
+  },
+  {
+    "id_sp": "C403E885-3B30-433B-83AA-98FABD195806",
+    "kode_pt": "021045",
+    "nama_pt": "Universitas Pertiba"
   },
   {
     "id_sp": "41DE6225-4D0D-44AE-B96C-98FDF9C7CCF6",
