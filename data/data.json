@@ -715,6 +715,11 @@
     "nama_pt": "Sekolah Tinggi Teologi Tabernakel Lawang"
   },
   {
+    "id_sp": "98432C5F-A03A-49B9-BF8F-03A1B3EEAAE0",
+    "kode_pt": "064169",
+    "nama_pt": "Akademi Akuntansi Bima Sakapenta "
+  },
+  {
     "id_sp": "32F94496-4DCD-4DDD-8666-03A1FD90C596",
     "kode_pt": "043130",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Cipasung"
@@ -3437,7 +3442,7 @@
   {
     "id_sp": "9CB9139A-9262-4079-AD66-11D64B234FBD",
     "kode_pt": "212117",
-    "nama_pt": "Institut Alif Muhammad Imam Syaf'i"
+    "nama_pt": "Institut Alif Muhammad Imam Syafi'i"
   },
   {
     "id_sp": "B7EC6F00-BCF7-4A2F-8F26-11E39F03BD03",
@@ -13565,6 +13570,11 @@
     "nama_pt": "Sekolah Tinggi Agama Islam Darud Da'wah wal Irsyad Pangkajene Sidenreng Rappang"
   },
   {
+    "id_sp": "D44F7534-EEB8-4284-9ED0-46F09FDC2946",
+    "kode_pt": "081050",
+    "nama_pt": "Universitas Primakara"
+  },
+  {
     "id_sp": "229A8663-631C-4075-8A37-46FCE7EBB79F",
     "kode_pt": "093058",
     "nama_pt": "STISIP Petta Baringeng Soppeng"
@@ -16208,6 +16218,11 @@
     "id_sp": "AAC2DC91-EC78-4C6D-A123-535AB0367028",
     "kode_pt": "073105",
     "nama_pt": "Sekolah Tinggi Teknologi Gempol"
+  },
+  {
+    "id_sp": "3B3FED58-CB92-4BE8-9DC6-535DF3B2813F",
+    "kode_pt": "074138",
+    "nama_pt": "Akademi Kesehatan Dharma Husada Kediri"
   },
   {
     "id_sp": "A3E10F46-3B42-42E7-8D53-535EA5EB266E",
@@ -20468,6 +20483,11 @@
     "id_sp": "4FC325F6-70B7-45A1-A660-6A2E43758659",
     "kode_pt": "123058",
     "nama_pt": "STIKES Maluku Husada"
+  },
+  {
+    "id_sp": "5D5E7D99-94A0-43A1-90B1-6A3460A9B853",
+    "kode_pt": "045069",
+    "nama_pt": "Politeknik Mardira"
   },
   {
     "id_sp": "29457DD8-91E6-4064-9997-6A3822EA36E1",
