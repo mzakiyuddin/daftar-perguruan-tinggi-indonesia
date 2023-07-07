@@ -1100,6 +1100,11 @@
     "nama_pt": "Politeknik Krakatau"
   },
   {
+    "id_sp": "7FFBB4E4-37CF-4A68-B226-0590BA22C912",
+    "kode_pt": "024144",
+    "nama_pt": "Institut Citra Internasional"
+  },
+  {
     "id_sp": "27532AE3-89D4-4000-B1F0-05952FA8956F",
     "kode_pt": "161001",
     "nama_pt": "Universitas Kristen Indonesia Tomohon"
@@ -32408,6 +32413,11 @@
     "id_sp": "880F8BA3-36DF-4976-BBDF-A89BCB032A40",
     "kode_pt": "233332",
     "nama_pt": "Sekolah Tinggi Teologi Andatu"
+  },
+  {
+    "id_sp": "0DCC77FC-5C03-472B-A80F-A8A0A8971E53",
+    "kode_pt": "021046",
+    "nama_pt": "Universitas Serelo Lahat"
   },
   {
     "id_sp": "AB6A1916-5D04-445D-9A3B-A8A1376D4653",
