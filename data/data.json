@@ -20522,7 +20522,7 @@
   {
     "id_sp": "5D5E7D99-94A0-43A1-90B1-6A3460A9B853",
     "kode_pt": "045069",
-    "nama_pt": "Politeknik Mardira"
+    "nama_pt": "Politeknik Mardira Indonesia"
   },
   {
     "id_sp": "29457DD8-91E6-4064-9997-6A3822EA36E1",
@@ -24240,6 +24240,11 @@
     "nama_pt": "Akademi Keperawatan Pemda Kabupaten Serang"
   },
   {
+    "id_sp": "B838873E-710C-4F85-9B2D-7DF8B392CB66",
+    "kode_pt": "095022",
+    "nama_pt": "Politeknik Muhammadiyah Makassar"
+  },
+  {
     "id_sp": "F74609D3-604F-4694-A688-7DFA49DBA77F",
     "kode_pt": "902992",
     "nama_pt": "Pontificia Universitas Gregoriana"
@@ -24983,6 +24988,11 @@
     "id_sp": "84F90063-670A-4D2D-A232-819AED4460F7",
     "kode_pt": "900404",
     "nama_pt": "Adventist International Institute of Advanced Stud"
+  },
+  {
+    "id_sp": "6C611892-BA09-4F40-A7B0-819B26A6D7E9",
+    "kode_pt": "233388",
+    "nama_pt": "Sekolah Tinggi Teologi Yusuf Makai Nabire"
   },
   {
     "id_sp": "F8245F5E-83D9-4643-B930-819D664E0B60",
