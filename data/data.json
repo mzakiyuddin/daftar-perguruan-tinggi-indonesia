@@ -13550,6 +13550,11 @@
     "nama_pt": "Akademi Keperawatan Karya Husada Yogyakarta"
   },
   {
+    "id_sp": "91BC3B14-7C20-4BF6-821D-46BDB6D538EC",
+    "kode_pt": "065045",
+    "nama_pt": "Politeknik Madyathika "
+  },
+  {
     "id_sp": "EB2EC05B-10F7-4488-AB83-46C09E0A3CD5",
     "kode_pt": "103113",
     "nama_pt": "STKIP Widyaswara Indonesia"
@@ -14908,6 +14913,11 @@
     "id_sp": "E5290D08-1DE8-447D-8F37-4D0137DCCDAE",
     "kode_pt": "395009",
     "nama_pt": "Politeknik Kelautan dan Perikanan Jembrana"
+  },
+  {
+    "id_sp": "6463EDA6-46F7-45FF-B3BB-4D0CAAA406A5",
+    "kode_pt": "055015",
+    "nama_pt": "Politeknik Gistrav "
   },
   {
     "id_sp": "E3B7CE01-02E8-4EBA-A801-4D10F20E97F4",
@@ -26687,7 +26697,7 @@
   {
     "id_sp": "6C827AB4-28C2-4679-B200-8A921A83EB66",
     "kode_pt": "014058",
-    "nama_pt": "AMIK Polibisnis Medan"
+    "nama_pt": "Akademi Manajemen Informatika Dan Komputer Polibisnis "
   },
   {
     "id_sp": "91EF8A02-99EC-4296-9B8B-8A95C854B571",
@@ -48385,6 +48395,11 @@
     "nama_pt": "East China Normal University"
   },
   {
+    "id_sp": "DAEAF488-7BE6-4F43-839E-F9E45D8D3532",
+    "kode_pt": "094154",
+    "nama_pt": "Akademi Kebidanan Mega Buana "
+  },
+  {
     "id_sp": "5F0BA667-9DF6-4597-9550-F9F323D1DD7D",
     "kode_pt": "902685",
     "nama_pt": "CHONGQING MEDICAL UNIVERSITY"
@@ -48553,6 +48568,11 @@
     "id_sp": "A912EF52-A0C8-4C23-A131-FAE0501FE53A",
     "kode_pt": "213556",
     "nama_pt": "STIQ Miftahul Huda Rawalo Banyumas Jawa Tengah"
+  },
+  {
+    "id_sp": "23CB7512-59EA-40B2-8B7A-FAF8CBE47806",
+    "kode_pt": "064170",
+    "nama_pt": "Akademi Inovasi Indonesia"
   },
   {
     "id_sp": "AE807AFC-C42B-460E-BE3B-FAFBE0AC8F0B",
