@@ -4800,6 +4800,11 @@
     "nama_pt": "STAI Bunga Bangsa Cirebon"
   },
   {
+    "id_sp": "9B1A3BB4-7366-4A9A-A7CC-18922A3344CA",
+    "kode_pt": "903403",
+    "nama_pt": "Universitat Hamburg"
+  },
+  {
     "id_sp": "F70714B3-7CFA-40E8-9C34-189D9EFB9D86",
     "kode_pt": "104125",
     "nama_pt": "Akademi Kebidanan Sumatera Barat"
@@ -36942,7 +36947,7 @@
   {
     "id_sp": "B8FFDD45-01B1-43EE-8FAA-BFCE920DECA8",
     "kode_pt": "903401",
-    "nama_pt": "Eötvös Loránd University"
+    "nama_pt": "Eotvos Lorand University"
   },
   {
     "id_sp": "F32135AE-C732-4478-975B-BFD4F4AF7A42",
