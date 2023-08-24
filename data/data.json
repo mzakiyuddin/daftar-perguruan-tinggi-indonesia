@@ -19045,6 +19045,11 @@
     "nama_pt": "Universitas Dinamika"
   },
   {
+    "id_sp": "00F0C934-22A7-4676-A83D-6227E9FCB936",
+    "kode_pt": "903410",
+    "nama_pt": "Nalanda University"
+  },
+  {
     "id_sp": "E8303EF3-E3EF-4E7F-8433-622D06C56FF5",
     "kode_pt": "202020",
     "nama_pt": "IAIN Manado"
@@ -42422,7 +42427,7 @@
   {
     "id_sp": "1EAD37B6-E296-4A23-902C-DB89C015EDC2",
     "kode_pt": "091023",
-    "nama_pt": "Universitas Andi Djemma Palopo"
+    "nama_pt": "Universitas Andi Djemma"
   },
   {
     "id_sp": "241B6515-45F5-4AD8-BC4D-DB8FE86A7E3E",
@@ -42503,6 +42508,11 @@
     "id_sp": "CCC1E40F-BE4C-47D6-94C1-DBD642C4C12D",
     "kode_pt": "044135",
     "nama_pt": "Akademi Kebidanan Salsabila"
+  },
+  {
+    "id_sp": "1F43A4E5-7BAF-4425-94C3-DBDAA9BBFB8D",
+    "kode_pt": "212131",
+    "nama_pt": "Institut Agama Islam Daruttaqwa Gresik"
   },
   {
     "id_sp": "ABDA9C4D-1266-4AF4-B8F1-DBDD40E9F897",
