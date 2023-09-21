@@ -3470,6 +3470,11 @@
     "nama_pt": "STT Pokok Anggur Jakarta"
   },
   {
+    "id_sp": "82891BC2-E827-41D7-B6D3-11D533F6E7C1",
+    "kode_pt": "4001",
+    "nama_pt": "Akademi Bisnis Lombok"
+  },
+  {
     "id_sp": "2D6D75E7-B589-46CC-8A92-11D5D049B37D",
     "kode_pt": "054005",
     "nama_pt": "Akademi Teknik YKPN"
@@ -40503,6 +40508,11 @@
     "id_sp": "1EBD04E7-E783-464C-86ED-D14F787C6313",
     "kode_pt": "152002",
     "nama_pt": "Institut Keguruan dan Teknologi Larantuka"
+  },
+  {
+    "id_sp": "7B90B55E-072A-45AF-BE29-D1502E4C8FAB",
+    "kode_pt": "084047",
+    "nama_pt": "Akademi Bisnis Lombok"
   },
   {
     "id_sp": "CED11E01-0D52-4984-BD41-D15544D2AADA",
