@@ -13650,6 +13650,11 @@
     "nama_pt": "University Of Southern California"
   },
   {
+    "id_sp": "32CF440F-9412-40DC-97A0-46D4C011166C",
+    "kode_pt": "212132",
+    "nama_pt": "Institut Syekh Abdul Halim Hasan Binjai"
+  },
+  {
     "id_sp": "3CAF4CFD-6CE4-4C5D-AD79-46D75995522D",
     "kode_pt": "143002",
     "nama_pt": "STISIP Silas Papare Jayapura"
@@ -36080,6 +36085,11 @@
     "nama_pt": "Institut Teknologi dan Bisnis Gowa"
   },
   {
+    "id_sp": "3475870E-C9F7-4810-91F1-B9F9D05782CB",
+    "kode_pt": "213777",
+    "nama_pt": "Sekolah Tinggi Agama Islam Sidogiri Pasuruan"
+  },
+  {
     "id_sp": "52E7C6B1-330B-4FAC-98A1-BA050245BA80",
     "kode_pt": "094010",
     "nama_pt": "Akademi Sekretari Manajemen Atmajaya Makassar"
@@ -37482,7 +37492,7 @@
   {
     "id_sp": "C1FE6F98-98E0-420F-B017-C1B0AC8AF69D",
     "kode_pt": "213255",
-    "nama_pt": "Sekolah Tinggi Iilmu Tarbiyah Aqidah Usymuni Sumenep"
+    "nama_pt": "Sekolah Tinggi Ilmu Tarbiyah Aqidah Usymuni Sumenep"
   },
   {
     "id_sp": "2E41329D-86ED-4BBD-8A24-C1B249078280",
