@@ -4850,6 +4850,11 @@
     "nama_pt": "Akademi Kebidanan Bunga Bangsa Idi"
   },
   {
+    "id_sp": "3B3C6D7F-5B27-48F3-A21F-18AE55C2FFC4",
+    "kode_pt": "095023",
+    "nama_pt": "Politeknik Banggai Industri"
+  },
+  {
     "id_sp": "6F37E720-E924-44A7-8D2A-18CBA3016DA2",
     "kode_pt": "903301",
     "nama_pt": "College Of Foreign Language Kokusai Kotoba Gakuin"
@@ -17523,6 +17528,11 @@
     "id_sp": "C3417F28-C3B2-4EDC-A6F7-59D2D14E5E0A",
     "kode_pt": "902016",
     "nama_pt": "Universitat Bayreuth"
+  },
+  {
+    "id_sp": "7CF87AF7-8D80-441F-9826-59D58A10BE5E",
+    "kode_pt": "903429",
+    "nama_pt": "Cebu State College"
   },
   {
     "id_sp": "648DDFF3-2118-4CAF-BF3D-59D7EE79D481",
@@ -32308,6 +32318,11 @@
     "id_sp": "EE1E602F-D77A-4D32-8657-A694C50890F5",
     "kode_pt": "213635",
     "nama_pt": "Sekolah Tinggi Ilmu Dakwah dan Komunikasi Islam Bogor Jawa Barat"
+  },
+  {
+    "id_sp": "8A477A6D-8F47-41E3-8733-A6996DDDE339",
+    "kode_pt": "233389",
+    "nama_pt": "Sekolah Tinggi Teologi Pancasilacitta Malang"
   },
   {
     "id_sp": "0FF937F2-EFF1-4677-88C2-A69E383850D5",
