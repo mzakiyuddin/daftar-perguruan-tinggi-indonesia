@@ -20812,7 +20812,7 @@
   {
     "id_sp": "A35E512C-EB93-4552-B885-6B163721CAAF",
     "kode_pt": "061007",
-    "nama_pt": "Universitas Wijaya Kusuma Purwokerto"
+    "nama_pt": "Universitas Wijayakusuma Purwokerto"
   },
   {
     "id_sp": "298A8556-33D6-42ED-BE06-6B2751CBE4C1",
@@ -44875,6 +44875,11 @@
     "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Sukabumi"
   },
   {
+    "id_sp": "0D389B75-FD42-48C3-9BE9-E65B76BE0DEB",
+    "kode_pt": "013217",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Malahayati Medan"
+  },
+  {
     "id_sp": "77476D24-255B-4046-9DC9-E65C72D0F6DE",
     "kode_pt": "213430",
     "nama_pt": "STIT Darul Ulum, Sarolangun, Jambi"
@@ -47488,6 +47493,11 @@
     "id_sp": "35DB448D-6996-44C3-AA53-F486135E9693",
     "kode_pt": "043093",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi YP-Karya"
+  },
+  {
+    "id_sp": "EB8168A9-082B-4C1A-8DE1-F4935EECDCEC",
+    "kode_pt": "903430",
+    "nama_pt": "Mahsa University"
   },
   {
     "id_sp": "A0BF32E5-4E05-4278-95F6-F493D4083B3B",
