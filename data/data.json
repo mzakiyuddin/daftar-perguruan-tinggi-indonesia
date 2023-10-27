@@ -16480,6 +16480,11 @@
     "nama_pt": "Northern Sydney Institute Tafe"
   },
   {
+    "id_sp": "4924DDB5-8F19-4969-BD2A-53D5DEDF3FE0",
+    "kode_pt": "034244",
+    "nama_pt": "Politeknik Prestasi Prima"
+  },
+  {
     "id_sp": "0C355365-E780-42A1-BC3C-53D96C5EF960",
     "kode_pt": "163060",
     "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Bethesda Tomohon"
@@ -32878,6 +32883,11 @@
     "id_sp": "8A57FF6E-4CA6-4404-AA20-A9A0DC1FF07F",
     "kode_pt": "900707",
     "nama_pt": "University Of Chekiang"
+  },
+  {
+    "id_sp": "DB3359A7-185E-4084-BCDB-A9A4E13B190D",
+    "kode_pt": "903436",
+    "nama_pt": "East West University"
   },
   {
     "id_sp": "87A51488-C0C4-4C98-8182-A9A67C6CAD00",
