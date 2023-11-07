@@ -3815,6 +3815,11 @@
     "nama_pt": "Akademi Kebidanan Bina Sejahtera"
   },
   {
+    "id_sp": "2E64D1FD-F56B-41D2-ACCB-1362AB8080AF",
+    "kode_pt": "111034",
+    "nama_pt": "Universitas PGRI Kalimantan"
+  },
+  {
     "id_sp": "C6E93C41-DDBA-4C7B-B529-1372212D664C",
     "kode_pt": "902055",
     "nama_pt": "Universitat Des Saarlandes"
@@ -4608,6 +4613,11 @@
     "id_sp": "24DAA750-91A3-4A8F-9633-173F3F394E6B",
     "kode_pt": "901534",
     "nama_pt": "University Of Tennessee At Chattanonga"
+  },
+  {
+    "id_sp": "7793AC61-B17B-4C3A-B48C-1751F2239400",
+    "kode_pt": "091087",
+    "nama_pt": "Universitas Sulawesi Raya"
   },
   {
     "id_sp": "4B594804-9DFE-4BC9-9F65-1764BAD6C2AA",
@@ -6163,6 +6173,11 @@
     "id_sp": "D7B28A87-0E2B-4711-8FE6-1F578B4A4961",
     "kode_pt": "103114",
     "nama_pt": "STIE Widyaswara Indonesia"
+  },
+  {
+    "id_sp": "A160D91C-0249-4D60-A2A8-1F60D4D18C83",
+    "kode_pt": "042031",
+    "nama_pt": "Institut Pangeran Dharma Kusuma"
   },
   {
     "id_sp": "D7AF866E-164F-4CEC-80F0-1F62984A04CD",
@@ -29028,6 +29043,11 @@
     "id_sp": "E518E136-8F5A-44C1-B56F-9424E0F8087D",
     "kode_pt": "113037",
     "nama_pt": "Sekolah Tinggi Ilmu Pertanian Palangka Raya"
+  },
+  {
+    "id_sp": "6AD30C7B-E5F1-4692-A9C9-9427EDC2113E",
+    "kode_pt": "102024",
+    "nama_pt": "Institut Kesehatan Helvetia Pekanbaru"
   },
   {
     "id_sp": "9B6D9982-22E9-4C4D-ACA7-942AE66E6BC1",
