@@ -3900,6 +3900,11 @@
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Muhammadiyah Pringsewu"
   },
   {
+    "id_sp": "BD6E2D3E-87A3-475A-8C23-13C14852F785",
+    "kode_pt": "085013",
+    "nama_pt": "Politeknik Omna Trisakti Chandra"
+  },
+  {
     "id_sp": "4D34C3FE-5C97-4816-B01B-13C53239A564",
     "kode_pt": "213263",
     "nama_pt": "STIT Muhammadiyah Bangil, Pasuruan"
@@ -13533,6 +13538,11 @@
     "id_sp": "C82BD580-9F12-4408-8592-45F58CC8CC42",
     "kode_pt": "900760",
     "nama_pt": "National University Of Defense Technology"
+  },
+  {
+    "id_sp": "5070D0C6-44D5-4870-A2E8-45F87750B7E8",
+    "kode_pt": "5001",
+    "nama_pt": "Politeknik Omna Trisakti Chandra"
   },
   {
     "id_sp": "D3CD1022-8217-4A7B-8A03-45FF48A677E1",
@@ -42448,6 +42458,11 @@
     "id_sp": "C7BCB075-6A24-4E4C-802D-DA20D9D67B91",
     "kode_pt": "902164",
     "nama_pt": "Csekcho Vysokeho Uceni Technikeho"
+  },
+  {
+    "id_sp": "7497309E-1534-48EC-88D5-DA2861B89AEC",
+    "kode_pt": "041129",
+    "nama_pt": "Lancaster University"
   },
   {
     "id_sp": "1370DE52-E9F6-45AD-B7E4-DA2885121672",
