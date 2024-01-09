@@ -1857,7 +1857,7 @@
   {
     "id_sp": "05411B05-B2FC-4008-BD69-08F0D83091AE",
     "kode_pt": "213546",
-    "nama_pt": "Sekolah Tinggi Ilmu Al-Qur'an Ash-Shiddiq Aceh Besar "
+    "nama_pt": "Sekolah Tinggi Ilmu Al-Qur'an Ash-Shiddiq"
   },
   {
     "id_sp": "597D222A-655B-44DA-BCA2-08F3D26BEE67",
@@ -48098,6 +48098,11 @@
     "id_sp": "68616E74-1740-40DF-B669-F5F25FCF4055",
     "kode_pt": "141018",
     "nama_pt": "Universitas Lambu"
+  },
+  {
+    "id_sp": "9EC391CB-7B2B-449F-B29D-F5F939D2F1F6",
+    "kode_pt": "232004",
+    "nama_pt": "Institut Agama Kristen Renatus Pematang Siantar"
   },
   {
     "id_sp": "B366BC80-4F85-4116-AE9B-F5F9CB2DB515",
