@@ -10272,7 +10272,7 @@
   {
     "id_sp": "013B87B5-C850-48C9-A077-342ECCFF5457",
     "kode_pt": "903444",
-    "nama_pt": "Saint Petersburg State University of Architecture and Civil Engineering"
+    "nama_pt": "Saint Petersburg State of Architectural and Civil Engineering University"
   },
   {
     "id_sp": "6DA53F69-435F-4C88-85F5-3435ADC2C577",
@@ -12373,6 +12373,11 @@
     "id_sp": "78C9B821-11FC-4C09-89EB-3F8FC5172265",
     "kode_pt": "031073",
     "nama_pt": "Universitas Saintek Muhammadiyah"
+  },
+  {
+    "id_sp": "D54DA8AC-49D9-416A-99DB-3FA10480C226",
+    "kode_pt": "041132",
+    "nama_pt": "Universitas Bhakti Asih Tangerang"
   },
   {
     "id_sp": "EBE67E8B-0ED2-472E-82E7-3FA6DFC01EDC",
@@ -39485,6 +39490,11 @@
     "nama_pt": "STIKES Graha Edukasi"
   },
   {
+    "id_sp": "9F8DCE80-4ADF-42A0-B437-CA056CB43C89",
+    "kode_pt": "164028",
+    "nama_pt": "Akademi Manajemen Informatika Dan Komputer Makassar "
+  },
+  {
     "id_sp": "5325B9AB-5230-487B-B8A3-CA07D158C8D7",
     "kode_pt": "900924",
     "nama_pt": "The University Of Waterloo"
@@ -46023,6 +46033,11 @@
     "id_sp": "EC7DC561-3A27-4367-98CD-EB430F6458F0",
     "kode_pt": "061018",
     "nama_pt": "Universitas Widya Dharma"
+  },
+  {
+    "id_sp": "10EACA35-629E-4DC7-BAA7-EB4B697AEBA7",
+    "kode_pt": "064171",
+    "nama_pt": "Akademi Kesehatan 17 Agustus 1945 Semarang"
   },
   {
     "id_sp": "27157172-D702-4594-AFB2-EB4DBE69755A",
