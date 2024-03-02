@@ -3255,6 +3255,11 @@
     "nama_pt": "Universitas Tri Tunggal"
   },
   {
+    "id_sp": "74D6F4C4-9290-4672-938E-107AFA8A46AD",
+    "kode_pt": "045072",
+    "nama_pt": "Politeknik Insan Tazakka"
+  },
+  {
     "id_sp": "C38D439E-E555-4194-9B0F-10822FEBB8A1",
     "kode_pt": "115019",
     "nama_pt": "Politeknik Lamandau"
@@ -7307,7 +7312,7 @@
   {
     "id_sp": "ADD08BBF-1E5D-4662-86AF-24AD86BD006E",
     "kode_pt": "013140",
-    "nama_pt": "STIKES Santa Elisabeth Medan"
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Santa Elisabeth Medan"
   },
   {
     "id_sp": "EFC1DBEF-B168-4D37-A1C9-24AEED3CC17F",
