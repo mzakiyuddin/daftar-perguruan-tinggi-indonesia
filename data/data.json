@@ -5375,6 +5375,11 @@
     "nama_pt": "Politeknik Semen Indonesia"
   },
   {
+    "id_sp": "34C03953-860D-4DDF-874B-1B23102F81FF",
+    "kode_pt": "212143",
+    "nama_pt": "Institut Ahmad Dahlan Probolinggo"
+  },
+  {
     "id_sp": "866DE95A-5F6E-41C6-A8B8-1B24A840FE4F",
     "kode_pt": "153022",
     "nama_pt": "STKIP Sinar Pancasila"
@@ -5868,6 +5873,11 @@
     "id_sp": "1250F4C2-A373-40CB-BFA8-1D4F4CAC3D99",
     "kode_pt": "900159",
     "nama_pt": "Tokyo International University"
+  },
+  {
+    "id_sp": "34DD08D7-D73C-4F53-92E9-1D54249708B9",
+    "kode_pt": "212141",
+    "nama_pt": "Institut Islam Al-Mujaddid Sabak"
   },
   {
     "id_sp": "46AC49B4-690F-4423-8C4E-1D594BDDF23E",
@@ -22290,6 +22300,11 @@
     "nama_pt": "Akademi Komunikasi Media Radio Dan TV Jakarta"
   },
   {
+    "id_sp": "3840B5EB-9382-458C-AD81-713C829749B7",
+    "kode_pt": "212140",
+    "nama_pt": "Institut Agama Islam An Nadwah Kuala Tungkal"
+  },
+  {
     "id_sp": "4243FBD8-5963-4B00-BB9A-714244726E56",
     "kode_pt": "064063",
     "nama_pt": "Akademi Bahasa Asing Harapan Bangsa"
@@ -32078,6 +32093,11 @@
     "id_sp": "0F7FE86F-36C1-4C7F-9C6C-A37B0930CA9E",
     "kode_pt": "093010",
     "nama_pt": "STKIP Muhammadiyah Barru"
+  },
+  {
+    "id_sp": "9DE62555-5D6E-4A17-8194-A3859B96D579",
+    "kode_pt": "211015",
+    "nama_pt": "Universitas Al-Amien Preduan"
   },
   {
     "id_sp": "75D5D3BC-61B9-4143-946A-A386782FA2EF",
@@ -44795,6 +44815,11 @@
     "nama_pt": "Akademi Kimia Analisis"
   },
   {
+    "id_sp": "02DAD020-AA3E-4F2B-84F3-E3A26F514ED0",
+    "kode_pt": "212142",
+    "nama_pt": "Institut Agama Islam Pemalang"
+  },
+  {
     "id_sp": "CF1A2109-6961-42E3-9CDF-E3A920D4CDEC",
     "kode_pt": "033077",
     "nama_pt": "Sekolah Tinggi Manajemen Immi"
@@ -47193,6 +47218,11 @@
     "id_sp": "57FFADB3-7D73-4C05-BDB3-F0B37987671D",
     "kode_pt": "212080",
     "nama_pt": "Sekolah Tinggi Ilmu Tarbiyah Assa'idiyyah Cipanas Cianjur"
+  },
+  {
+    "id_sp": "FCBCFC13-69A4-4988-B147-F0B8D0692731",
+    "kode_pt": "212139",
+    "nama_pt": "Institut Darul Ulum Sarolangun"
   },
   {
     "id_sp": "0FD3D08A-9081-4DEA-A93D-F0BA17E60620",
