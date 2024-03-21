@@ -2040,6 +2040,11 @@
     "nama_pt": "Sekolah Tinggi Bahasa Asing Prayoga"
   },
   {
+    "id_sp": "16BEA37C-17B6-4CB5-BBFE-09EC5BC3A074",
+    "kode_pt": "211017",
+    "nama_pt": "Universitas Al-Qolam Malang"
+  },
+  {
     "id_sp": "61C05921-5475-4CEF-94F4-09ECB5FCE1CE",
     "kode_pt": "141002",
     "nama_pt": "Universitas Sains Dan Teknologi Jayapura"
@@ -2783,6 +2788,11 @@
     "id_sp": "83C2B35D-2E68-4780-B38D-0E065C17970B",
     "kode_pt": "073186",
     "nama_pt": "Sekolah Tinggi Teknik Multimedia Internasional Malang"
+  },
+  {
+    "id_sp": "EBAF4A36-50A3-4DEB-9E61-0E0AC9FAF626",
+    "kode_pt": "212149",
+    "nama_pt": "Institut KH. Ahmad Sanusi Sukabumi"
   },
   {
     "id_sp": "F656DABC-B920-40CD-A5A7-0E0BB660A056",
@@ -7505,6 +7515,11 @@
     "nama_pt": "Akademi Keperawatan Kesdam I/Bukit Barisan Pematang Siantar"
   },
   {
+    "id_sp": "7E468309-C16F-4CAF-9254-25C163F3FA33",
+    "kode_pt": "212148",
+    "nama_pt": "Institut Miftahul Huda Al Azhar Kota Banjar"
+  },
+  {
     "id_sp": "58006E4D-25B9-4C9E-BF77-25C21D28273D",
     "kode_pt": "093198",
     "nama_pt": "STIK Imanuel Indonesia"
@@ -10523,6 +10538,11 @@
     "id_sp": "8157CB07-E0E1-4682-9E3C-3537ECDC9524",
     "kode_pt": "063067",
     "nama_pt": "STIMIK Tunas Bangsa Banjarnegara"
+  },
+  {
+    "id_sp": "408C4A60-4FCD-4B96-8885-35484DB787D3",
+    "kode_pt": "212146",
+    "nama_pt": "Institut Agama Islam Pangeran Dharma Kusuma Segeran Indramayu"
   },
   {
     "id_sp": "F4B290EA-C465-46C8-9284-356172EBEF03",
@@ -13648,6 +13668,11 @@
     "id_sp": "D2FC9B02-30A5-46F9-B5F3-45DAC186F031",
     "kode_pt": "901102",
     "nama_pt": "Tulane University"
+  },
+  {
+    "id_sp": "52FFD75E-AF44-442A-B8EF-45DB3620F012",
+    "kode_pt": "015027",
+    "nama_pt": "Politeknik Hasan Abdi"
   },
   {
     "id_sp": "1F9E3E05-0564-492F-9368-45DDD51BD186",
@@ -29120,6 +29145,11 @@
     "nama_pt": "Universitas Pekalongan"
   },
   {
+    "id_sp": "C94F9073-55C0-4055-8275-931F59D967B2",
+    "kode_pt": "211016",
+    "nama_pt": "Universitas Islam Darussalam"
+  },
+  {
     "id_sp": "CAB63323-FC0C-481F-8E43-932C8C38D090",
     "kode_pt": "092022",
     "nama_pt": "Institut Kesehatan dan Teknologi Buton Raya"
@@ -31868,6 +31898,11 @@
     "id_sp": "BDAFB2FE-04B9-4823-B40D-A1E380F5ADCC",
     "kode_pt": "035020",
     "nama_pt": "Politeknik Tempo"
+  },
+  {
+    "id_sp": "30DA66C5-0F0C-4527-BB74-A1E5D6EE002B",
+    "kode_pt": "212147",
+    "nama_pt": "Institut Pesantren Babakan Cirebon"
   },
   {
     "id_sp": "4914F37C-6F39-458F-B7A2-A1EB72FCB5E2",
@@ -36688,6 +36723,11 @@
     "id_sp": "65770562-7EED-4A58-854C-BAB044D7319F",
     "kode_pt": "901469",
     "nama_pt": "Bowie State University"
+  },
+  {
+    "id_sp": "1EDFB1B2-D82A-4787-B472-BACB18FF5B35",
+    "kode_pt": "212145",
+    "nama_pt": "Institut Agama Islam Rokan"
   },
   {
     "id_sp": "0C74F042-20F1-4ED2-8743-BAD40B463444",
@@ -45443,6 +45483,11 @@
     "id_sp": "078CC978-FB36-4EC1-A6FD-E70F56C35A84",
     "kode_pt": "233122",
     "nama_pt": "STT INJILI JAKARTA"
+  },
+  {
+    "id_sp": "AF75E72E-7569-43F5-A684-E727D3EB98E1",
+    "kode_pt": "212150",
+    "nama_pt": "Institut Agama Islam Abuya Salek Sarolangun"
   },
   {
     "id_sp": "64B6AE3E-9386-4B9C-B6C8-E729AD55DB23",
