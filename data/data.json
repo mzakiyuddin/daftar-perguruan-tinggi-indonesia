@@ -2512,7 +2512,7 @@
   {
     "id_sp": "18C2BAE2-DA1A-46CF-8C30-0C6AFAD4736F",
     "kode_pt": "161009",
-    "nama_pt": "Universitas Tompotika Luwuk Banggai"
+    "nama_pt": "Universitas Tompotika Luwuk"
   },
   {
     "id_sp": "B2540A16-53CE-417B-879C-0C6CC3365763",
@@ -4173,6 +4173,11 @@
     "id_sp": "CD8F230C-CB80-4F5D-B31D-14DCC83F2D53",
     "kode_pt": "445005",
     "nama_pt": "Politeknik Pembangunan Pertanian Gowa"
+  },
+  {
+    "id_sp": "46D12542-D23C-451F-8730-14DEE788549A",
+    "kode_pt": "041134",
+    "nama_pt": "Universitas Teknologi Bandung"
   },
   {
     "id_sp": "24D807AF-D2B0-4310-831E-14E5603FD910",
@@ -35085,6 +35090,11 @@
     "nama_pt": "Sekolah Tinggi Pertanahan Nasional "
   },
   {
+    "id_sp": "5D4998A3-7C11-483C-94D1-B291C6CE25BC",
+    "kode_pt": "093217",
+    "nama_pt": "Sekolah Tinggi Ilmu Maritim Mega Buana"
+  },
+  {
     "id_sp": "91B0A817-7DFD-4A19-8CA6-B2924A9B9C15",
     "kode_pt": "081014",
     "nama_pt": "Universitas Nahdlatul Wathan Mataram"
@@ -36073,6 +36083,11 @@
     "id_sp": "BD8B7200-8DA7-4199-ABF0-B781DD42CBC7",
     "kode_pt": "902487",
     "nama_pt": "University Of Aden"
+  },
+  {
+    "id_sp": "B644FF04-DCF8-40D7-9A13-B785DB33EBFC",
+    "kode_pt": "023150",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan An Nur Husada Lampung Utara"
   },
   {
     "id_sp": "34BC694A-CAFC-4F70-A33F-B786E99B9D57",
@@ -49453,6 +49468,11 @@
     "id_sp": "14752C1E-FD36-44EE-8FD6-FAA2C50D95B2",
     "kode_pt": "044127",
     "nama_pt": "Akademi Kebidanan Bina Husada Tangerang"
+  },
+  {
+    "id_sp": "B85C6E49-D2E2-414A-A4F9-FAA44F477939",
+    "kode_pt": "071117",
+    "nama_pt": "King's College London"
   },
   {
     "id_sp": "35E5CD7F-2ABC-4B8A-A5BF-FAB7594F2307",
