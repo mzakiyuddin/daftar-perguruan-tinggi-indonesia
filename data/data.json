@@ -3870,6 +3870,11 @@
     "nama_pt": "Universitat Des Saarlandes"
   },
   {
+    "id_sp": "6D8EB23A-6924-4996-9FF3-13732F0DF563",
+    "kode_pt": "212153",
+    "nama_pt": "Institut Agama Islam Padang Lawas"
+  },
+  {
     "id_sp": "FB48E94A-9A6B-4342-9618-1376426FA0FE",
     "kode_pt": "900246",
     "nama_pt": "Kangnung National University"
@@ -6203,6 +6208,11 @@
     "id_sp": "3511E43B-CA1E-46EB-A6B2-1F1FA7F19194",
     "kode_pt": "233296",
     "nama_pt": "Sekolah Tinggi Teologi Injili Setia Sintang"
+  },
+  {
+    "id_sp": "D0BD3B1B-9F2E-405C-B14D-1F2484A30659",
+    "kode_pt": "213783",
+    "nama_pt": "Sekolah Tinggi Ekonomi dan Bisnis Islam Kyai Haji Ahmad Syairazi"
   },
   {
     "id_sp": "15C05B96-C49A-43CA-8C6D-1F27C892DFA2",
@@ -25915,6 +25925,11 @@
     "nama_pt": "Akademi Bahasa Asing Saint Mary"
   },
   {
+    "id_sp": "F7879F09-DEBE-4B5D-A54E-83C5FDD46E6D",
+    "kode_pt": "212152",
+    "nama_pt": "Institut Agama Islam Miftahul Ulum Tanjung Pinang"
+  },
+  {
     "id_sp": "846F6486-C9A2-406F-9F4A-83D80D652464",
     "kode_pt": "213410",
     "nama_pt": "STAI Siti Khadijah Muara Teweh Barito Utara, Kalimantan Tengah"
@@ -26073,6 +26088,11 @@
     "id_sp": "BDE363A0-B295-4FD3-A0DE-84FAE7F8DE06",
     "kode_pt": "065042",
     "nama_pt": "Politeknik Damara"
+  },
+  {
+    "id_sp": "72BB5C16-C6A2-409C-AD8D-84FE33D8798B",
+    "kode_pt": "212151",
+    "nama_pt": "Institut Agama Islam Insan Prima Misbahul Ulum Gumawang"
   },
   {
     "id_sp": "BA65AA1C-3FB6-4663-BD1B-850211764024",
