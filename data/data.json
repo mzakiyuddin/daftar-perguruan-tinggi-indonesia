@@ -8165,6 +8165,11 @@
     "nama_pt": "STMIK - STIKOM "
   },
   {
+    "id_sp": "78C87BDD-2BEF-4FEB-932A-28FB66CA45C5",
+    "kode_pt": "095024",
+    "nama_pt": "Politeknik Paramata Raha"
+  },
+  {
     "id_sp": "43DA1BAF-343E-4901-A418-28FC51BED3E4",
     "kode_pt": "134044",
     "nama_pt": "Akademi Kesehatan Lingkungan Jabal Ghafur"
@@ -19260,6 +19265,11 @@
     "nama_pt": "Webster University at Vienna"
   },
   {
+    "id_sp": "A251E2B7-1807-4048-89D7-610D16754889",
+    "kode_pt": "903469",
+    "nama_pt": "Universita degli studi di Parma"
+  },
+  {
     "id_sp": "939BE9AB-93A2-441B-A558-611279B137C4",
     "kode_pt": "063115",
     "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Samarinda"
@@ -19573,6 +19583,11 @@
     "id_sp": "9BBB56FA-B9F8-44D2-BF1B-6278F331F218",
     "kode_pt": "900397",
     "nama_pt": "Tzu Chi University"
+  },
+  {
+    "id_sp": "63299BAC-1A84-4A4C-BFBB-62914272F6B2",
+    "kode_pt": "903468",
+    "nama_pt": "Karolinska Institutet"
   },
   {
     "id_sp": "392513A5-F6BF-48C5-A0FE-62947110536F",
@@ -44173,6 +44188,11 @@
     "id_sp": "A9F90A0A-7FA6-4008-AAF9-DF91BFFF240E",
     "kode_pt": "425011",
     "nama_pt": "Politeknik Pelayaran Sumatera Barat"
+  },
+  {
+    "id_sp": "CEB9505A-67AA-45AC-9F28-DF999C3489F2",
+    "kode_pt": "903467",
+    "nama_pt": "Karolinska Institutet"
   },
   {
     "id_sp": "5707C7C8-49EE-4096-A929-DF9F285E9795",
