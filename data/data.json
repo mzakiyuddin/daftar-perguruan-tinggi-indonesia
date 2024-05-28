@@ -4452,7 +4452,7 @@
   {
     "id_sp": "AFAEB34A-890F-4A45-B8F2-162A7E502C0B",
     "kode_pt": "043014",
-    "nama_pt": "Sekolah Tinggi Ilmu Administrasi YPPT Tasikmalaya"
+    "nama_pt": "Sekolah Tinggi Ilmu Administrasi YPPT Priatim Tasikmalaya"
   },
   {
     "id_sp": "91C5E74D-B00F-4B14-A35C-162D08C2BE11",
@@ -27328,6 +27328,11 @@
     "id_sp": "FC8F7F90-B845-4F93-A309-8AA49A6B158F",
     "kode_pt": "903450",
     "nama_pt": "University of Keele"
+  },
+  {
+    "id_sp": "BAB2D872-04C7-4B91-AAE5-8AA4F6E929A8",
+    "kode_pt": "903470",
+    "nama_pt": "Zhongnan University of Economics and Law"
   },
   {
     "id_sp": "56188522-B008-434D-BD2B-8AA7F9C46AAA",
