@@ -1850,6 +1850,11 @@
     "nama_pt": "Virginia Polytechnic Institute and State University"
   },
   {
+    "id_sp": "A832BC2C-B024-44A2-849F-08E281D55B12",
+    "kode_pt": "903476",
+    "nama_pt": "University of Engineering and Technology Taxila"
+  },
+  {
     "id_sp": "C4C7E5E4-4FA4-4FA0-AB79-08E81D9615A7",
     "kode_pt": "013076",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Y P Kampus"
@@ -24028,6 +24033,11 @@
     "id_sp": "1A4C210F-F8B9-4130-ADEF-797E563530DF",
     "kode_pt": "902029",
     "nama_pt": "Fachhochschule Hamburg"
+  },
+  {
+    "id_sp": "76D3CE24-9595-4DF4-B735-797E879CFFAC",
+    "kode_pt": "903477",
+    "nama_pt": "Asia-pacific International University"
   },
   {
     "id_sp": "136C6898-CB2B-4468-A0C8-798025C50EBE",
