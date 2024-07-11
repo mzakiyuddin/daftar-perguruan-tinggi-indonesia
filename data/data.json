@@ -9155,6 +9155,11 @@
     "nama_pt": "Institut Agama Islam Nasional Laa Roiba Bogor Jawa Barat "
   },
   {
+    "id_sp": "D29FFC4B-134B-4479-86E1-2DE9FDC75D26",
+    "kode_pt": "903482",
+    "nama_pt": "Università degli Studi di Brescia"
+  },
+  {
     "id_sp": "BA02DB29-EDC9-46FD-9F7B-2DF876832012",
     "kode_pt": "902994",
     "nama_pt": "SungkongHoe university"
@@ -9980,6 +9985,11 @@
     "nama_pt": "STAI Bumi Silampari Lubuk Linggau, Sumatera Selatan"
   },
   {
+    "id_sp": "3F09C718-6B46-491E-9F17-32585CB0552B",
+    "kode_pt": "033227",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan PGI Cikini"
+  },
+  {
     "id_sp": "0B53DDCD-FB45-45F5-96FB-325A0CBD5A9E",
     "kode_pt": "903098",
     "nama_pt": "Zhengzhou University"
@@ -10488,6 +10498,11 @@
     "id_sp": "7F7AADFE-7B3B-4D4E-9607-34996BD84C4E",
     "kode_pt": "901240",
     "nama_pt": "Boston College"
+  },
+  {
+    "id_sp": "616679F0-ADCA-4BCB-AD82-349A15CCC656",
+    "kode_pt": "903481",
+    "nama_pt": "University of Mosul"
   },
   {
     "id_sp": "AA34D0AA-E11C-4ADF-B064-349AD43A08B4",
@@ -14907,7 +14922,7 @@
   {
     "id_sp": "FC5E9A9C-7E56-4E4D-9FA2-4AF273549651",
     "kode_pt": "061038",
-    "nama_pt": "Universitas PGRI Semarang"
+    "nama_pt": "Universitas Persatuan Guru Republik Indonesia Semarang"
   },
   {
     "id_sp": "D6F3D9DE-857E-4EFA-B07A-4B06CF84060D",
@@ -34200,6 +34215,11 @@
     "nama_pt": "STAI YPBWI Surabaya"
   },
   {
+    "id_sp": "CE64E95A-C35B-4AE3-A49A-AD54C4C92E86",
+    "kode_pt": "021049",
+    "nama_pt": "Universitas Muhammadiyah Kalianda"
+  },
+  {
     "id_sp": "F4CEAE4F-1D49-43F5-838A-AD5CBBE58D73",
     "kode_pt": "034036",
     "nama_pt": "Akademi Perawatan RS PGI Cikini"
@@ -35662,7 +35682,7 @@
   {
     "id_sp": "7091272F-FBE8-4D50-ACC9-B401CE3B9188",
     "kode_pt": "091013",
-    "nama_pt": "Universitas Sawerigading Makassar"
+    "nama_pt": "Universitas Sawerigading"
   },
   {
     "id_sp": "D996402F-76A2-4ABD-AAD6-B40216F31FB2",
@@ -42710,6 +42730,11 @@
     "nama_pt": "the university of nottingham at China"
   },
   {
+    "id_sp": "4319FA9C-922E-4CFE-BCD5-D84B788B35AB",
+    "kode_pt": "903480",
+    "nama_pt": "Eskisehir Technical University"
+  },
+  {
     "id_sp": "5F287265-9516-4562-9D60-D85086751E9F",
     "kode_pt": "114065",
     "nama_pt": "Akademi Keperawatan Kaltara Tarakan"
@@ -47513,6 +47538,11 @@
     "id_sp": "BADD67FA-433A-4F9B-80C2-F042368310C4",
     "kode_pt": "163027",
     "nama_pt": "STMIK Bina Mulia"
+  },
+  {
+    "id_sp": "D9EEF838-A0BD-4B42-9012-F0472EA5869F",
+    "kode_pt": "903483",
+    "nama_pt": "Kuban State Technological University"
   },
   {
     "id_sp": "E356DA51-A890-4DD0-8E53-F051626FA8DE",
