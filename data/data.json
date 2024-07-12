@@ -8125,6 +8125,11 @@
     "nama_pt": "Alexandria University"
   },
   {
+    "id_sp": "DE55BFB3-21F8-4A31-BAC1-287E290A9F96",
+    "kode_pt": "292002",
+    "nama_pt": "Institut Nalanda"
+  },
+  {
     "id_sp": "F5653F51-A47B-4599-B267-2881960042F6",
     "kode_pt": "081016",
     "nama_pt": "Universitas Samawa"
@@ -12865,6 +12870,11 @@
     "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Borneo Lestari"
   },
   {
+    "id_sp": "4E76C267-D1EE-4429-99FA-4142A74AEE93",
+    "kode_pt": "033228",
+    "nama_pt": "Sekolah Tinggi Teknologi Pekerjaan Umum"
+  },
+  {
     "id_sp": "0474965A-C018-44F1-9F02-414E86201B7F",
     "kode_pt": "013003",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Swadaya"
@@ -15733,6 +15743,11 @@
     "id_sp": "7C678CEF-F58A-40E8-8B78-4EAA1CBB5A29",
     "kode_pt": "084031",
     "nama_pt": "Akademi Kebidanan Bhakti Kencana"
+  },
+  {
+    "id_sp": "E8D479F6-1FFF-49D5-9C8C-4EAE989CF199",
+    "kode_pt": "011068",
+    "nama_pt": "Universitas Wirahusada Medan"
   },
   {
     "id_sp": "C06EA55A-400E-437A-BD23-4EB205D64DFC",
@@ -42292,7 +42307,7 @@
   {
     "id_sp": "B8BEEC10-1414-430B-B8C8-D669EFFE935E",
     "kode_pt": "902792",
-    "nama_pt": "technische universitat dresden"
+    "nama_pt": "Technische Universitat Dresden"
   },
   {
     "id_sp": "5E43E6D5-2E7E-4A2D-B9E0-D66D47B85038",
