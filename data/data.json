@@ -8430,6 +8430,11 @@
     "nama_pt": "University Of Alabama - Huntsville"
   },
   {
+    "id_sp": "EE140E56-E3F6-4F5E-8E05-2A1D4466C9A6",
+    "kode_pt": "101054",
+    "nama_pt": "Universitas Baiturrahim"
+  },
+  {
     "id_sp": "22B700B2-71AE-4B06-83B2-2A2100645509",
     "kode_pt": "002005",
     "nama_pt": "Institut Seni Indonesia Yogyakarta"
@@ -23707,7 +23712,7 @@
   {
     "id_sp": "3DF38760-2D7A-477C-A414-76FF336F8D7B",
     "kode_pt": "063076",
-    "nama_pt": "STIKES An-Nur Purwodadi"
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan An Nur Purwodadi"
   },
   {
     "id_sp": "0EDBB7E1-713E-4C33-AA53-77017C74CEAF",
@@ -43823,6 +43828,11 @@
     "id_sp": "303C059A-C786-42FC-AC0F-DC57F9303CD4",
     "kode_pt": "133035",
     "nama_pt": "STIKES Bumi Persada Lhokseumawe"
+  },
+  {
+    "id_sp": "545ACD7A-F9AF-4E0E-B894-DC5B6BB60DD7",
+    "kode_pt": "124024",
+    "nama_pt": "Akademi Kebidanan Cahwala Maluku Utara"
   },
   {
     "id_sp": "D056EAB6-60D8-4251-8B0A-DC5E74DE64A8",
