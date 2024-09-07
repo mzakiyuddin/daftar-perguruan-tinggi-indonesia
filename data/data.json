@@ -2325,6 +2325,11 @@
     "nama_pt": "Tomsk State University Of Control Systems And Radioelectronics "
   },
   {
+    "id_sp": "76216E12-6321-49C4-B19D-0B44C2D38796",
+    "kode_pt": "212157",
+    "nama_pt": "Institut Agama Islam K.H. Sufyan Tsauri Majenang"
+  },
+  {
     "id_sp": "83744592-4433-475D-A212-0B46D3B39B43",
     "kode_pt": "104138",
     "nama_pt": "Akademi Kebidanan Jakarta Mitra Sejahtera"
@@ -5218,6 +5223,11 @@
     "id_sp": "D1E31680-3EBC-46F3-9B28-19EA4CAA2D50",
     "kode_pt": "902861",
     "nama_pt": "Europa Universitaet Viadrina Frankfurt (Oder)"
+  },
+  {
+    "id_sp": "2AAC5988-65D5-4D90-A823-19ED49508CBA",
+    "kode_pt": "903495",
+    "nama_pt": "University Of The People"
   },
   {
     "id_sp": "907CF579-260E-4B9B-8614-19F2912EFC2E",
@@ -25727,7 +25737,7 @@
   {
     "id_sp": "2204825D-51A1-47FB-8BFF-813F44066C5B",
     "kode_pt": "023123",
-    "nama_pt": "STISIP Bina Marta"
+    "nama_pt": "Sekolah Tinggi Ilmu Sosial dan Politik Bina Marta"
   },
   {
     "id_sp": "D33E9971-17F9-4C29-B609-813F82B93218",
