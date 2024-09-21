@@ -650,6 +650,11 @@
     "nama_pt": "Sekolah Tinggi Ilmu Kesehatan Ibnu Sina Batam"
   },
   {
+    "id_sp": "708BC04A-1BE5-457B-AAB3-033292F03245",
+    "kode_pt": "153036",
+    "nama_pt": "Sekolah Tinggi Ilmu Kesehatan St. Elisabeth Keuskupan Maumere"
+  },
+  {
     "id_sp": "0CA69320-A61E-496B-9336-03370876E03F",
     "kode_pt": "121015",
     "nama_pt": "Universitas Halmahera"
@@ -8475,6 +8480,11 @@
     "nama_pt": "Akademi Analis Kesehatan Pemerintah Aceh"
   },
   {
+    "id_sp": "8B823C14-B127-499B-8ED7-2A3DD766B0E7",
+    "kode_pt": "041140",
+    "nama_pt": "Universitas Darul Ma`arif"
+  },
+  {
     "id_sp": "AE690030-E28D-48ED-BDE9-2A40D24063D4",
     "kode_pt": "172005",
     "nama_pt": "Institut Bisnis Dan Teknologi Pelita Indonesia"
@@ -11923,6 +11933,11 @@
     "id_sp": "9AA3BF31-F469-4E70-B49D-3B93A36310E5",
     "kode_pt": "043089",
     "nama_pt": "Sekolah Tinggi Ilmu Ekonomi Mulia Pratama"
+  },
+  {
+    "id_sp": "66449BA2-EDC7-4B59-8A5F-3BA45C13DCDD",
+    "kode_pt": "041141",
+    "nama_pt": "Universitas Taruna Bakti"
   },
   {
     "id_sp": "0846C264-8C48-42C3-9411-3BAB26F21C00",
@@ -30453,6 +30468,11 @@
     "id_sp": "37FE37BF-1E9C-43E3-B35D-97BBDD5C86D8",
     "kode_pt": "033047",
     "nama_pt": "Sekolah Tinggi Manajemen Industri Indonesia"
+  },
+  {
+    "id_sp": "4409E12E-25F7-4068-A56C-97BD31F8068D",
+    "kode_pt": "041142",
+    "nama_pt": "Universitas Bhakti Husada"
   },
   {
     "id_sp": "9DDFD466-4434-45D3-A4E1-97BF64DBACDE",
